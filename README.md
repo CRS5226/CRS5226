@@ -292,3 +292,6 @@
   />
 </p>
 
+##snake game##
+![snake gif](https://github.com/CRS5226/CRS5226/blob/output/github-contribution-grid-snake.gif)
+
