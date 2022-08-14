@@ -279,7 +279,7 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=crs5226&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=crs5226&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="crs5226"
   />
 </p>
@@ -287,7 +287,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en&theme=tokyonight"
     alt="crs5226"
   />
 </p>
