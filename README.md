@@ -283,9 +283,8 @@
     alt="crs5226"
   />
 </p>
-
 <p>
-  &nbsp;<img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en&theme=tokyonight"
     alt="crs5226"
