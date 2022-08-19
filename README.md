@@ -283,15 +283,15 @@
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=crs5226&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="crs5226"
+    height="195"
   />
-</p>
-<p>
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en&theme=tokyonight"
     alt="crs5226"
   />
 </p>
+
 
 ![snake gif](https://github.com/CRS5226/CRS5226/blob/output/github-contribution-grid-snake.gif)
 
