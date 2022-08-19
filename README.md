@@ -284,13 +284,14 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=crs5226&show_icons=true&locale=en&layout=compact&theme=tokyonight"
     alt="crs5226"
     height="195"
+    width="330"
   />
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en&theme=tokyonight"
     alt="crs5226"
     height="195"
-    width="500"
+    width="400"
   />
 </p>
 
