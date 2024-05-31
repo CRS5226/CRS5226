@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitraksh Singh</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Machine Learning</h3>
 
 <!-- ![crs-intro](https://user-images.githubusercontent.com/71341548/185691131-d19263af-2a08-4fb7-b92e-d44e503fcd70.gif) -->
 
