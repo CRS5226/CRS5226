@@ -30,7 +30,7 @@
     target="blank"
      ><img
         align="center"
-        src="[https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Scholar_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png?20200110094142)"
+        src=""
         alt="Google Scholar"
         height="30"
         width="40"
