@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chitraksh Singh</h1>
-<h3 align="center">Machine Learning Engineer</h3>
+<!-- <h3 align="center">Machine Learning Engineer</h3> -->
 
 <!-- ![crs-intro](https://user-images.githubusercontent.com/71341548/185691131-d19263af-2a08-4fb7-b92e-d44e503fcd70.gif) -->
 
@@ -25,6 +25,17 @@
       height="30"
       width="40"
   /></a>
+  <a
+    href="https://scholar.google.com/citations?user=p5eBCKUAAAAJ&hl=en"
+    target="blank"
+     ><img
+        align="center"
+        src="[https://upload.wikimedia.org/wikipedia/commons/0/0e/Google_Scholar_logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/768px-Google_Scholar_logo.svg.png?20200110094142)"
+        alt="Google Scholar"
+        height="30"
+        width="40"
+    />
+</a>
 <!--   <a href="https://www.codechef.com/users/crs5226" target="blank"
     ><img
       align="center"
