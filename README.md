@@ -30,9 +30,9 @@
     target="blank"
      ><img
         align="center"
-        src=""
+        src="https://github.com/CRS5226/Semantic_Segmentation_landcover_UNet/blob/master/icons8-google-scholar.svg"
         alt="Google Scholar"
-        height="30"
+        height="40"
         width="40"
     />
 </a>
