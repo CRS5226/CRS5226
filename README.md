@@ -70,7 +70,3 @@
 
 ---
 
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this comment block once you send me your blog/RSS URL — the workflow will auto-fill this section -->
-<!-- BLOG-POST-LIST:END -->
