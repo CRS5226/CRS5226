@@ -6,7 +6,7 @@
 <!-- Typing tagline -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=ML+Engineer+%40+H+to+H;Building+real-time+data+pipelines;Cybersecurity+%2B+ML+Researcher;IIIT+Gwalior+%7C+M.Tech+CS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+real-time+data+pipelines;Cybersecurity+%2B+ML+Researcher;IIIT+Gwalior+%7C+M.Tech+CS" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,23 +41,24 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=crs5226&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="crs5226" height="195" width="330" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crs5226&show_icons=true&locale=en&theme=tokyonight" alt="crs5226" height="195" width="400" />
+<!--
+  This image is generated & committed by the "metrics.yml" Actions workflow
+  (self-hosted, so it won't hit the rate limits that broke the old cards).
+  It will appear blank until you push the workflow and let it run once.
+-->
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=crs5226&theme=tokyonight" alt="crs5226 streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=crs5226&theme=tokyonight&no-frame=true&row=1&column=7" alt="crs5226 trophies" />
+  <img src="https://streak-stats.demolab.com?user=crs5226&theme=tokyonight" alt="crs5226 streak" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 
+<!-- Generated & committed by "snake.yml" — appears after the workflow runs once -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/crs5226/crs5226/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation dark" />
   <img src="https://raw.githubusercontent.com/crs5226/crs5226/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation light" />
@@ -66,3 +67,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=crs5226&color=2a5298&style=flat" alt="profile views" />
 </p>
+
+---
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- Replace this comment block once you send me your blog/RSS URL — the workflow will auto-fill this section -->
+<!-- BLOG-POST-LIST:END -->
