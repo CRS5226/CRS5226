@@ -70,3 +70,9 @@
 
 ---
 
+### 📄 Publications
+
+- **ML Framework for Predicting and Mapping ATT&CK Techniques** — Arxiv, Aug 2025 · [Paper](https://arxiv.org/abs/2508.18230) · [Code](https://github.com/Frondeur-Labs/KillChainGraph)
+- **Policy-Value Guided MDP-MCTS Framework for Cyber Kill-Chain Inference** — Arxiv, Dec 2025 · [Paper](https://arxiv.org/abs/2512.15150) · [Code](https://github.com/Frondeur-Labs/Kill-Chain-Inference)
+- **Towards U-Net based Semantic Segmentation for Satellite Images** — Conference, Sep 2024 · [Paper](https://ieeexplore.ieee.org/document/10896139)
+- **Empowering DDoS Resilience: ML Strategies for Enhanced Cybersecurity** — Conference, Jul 2024 · [Paper](https://books.google.com/books?hl=en&lr=&id=zfdpEQAAQBAJ&oi=fnd&pg=PA193&dq=related:m1cG7Xt-mYIJ:scholar.google.com/&ots=NrlWDT6odT&sig=X3lMqsDHckqpIBxZ63kuQO8U9Pg)
