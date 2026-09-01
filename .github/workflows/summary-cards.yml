@@ -19,7 +19,7 @@ jobs:
           # Needs a Personal Access Token (classic) with "repo" + "read:user" scopes,
           # saved as a repo secret named SUMMARY_GITHUB_TOKEN. The default GITHUB_TOKEN
           # doesn't have enough access for these stats.
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.README_FILE_TOKEN }}
         with:
           USERNAME: crs5226
           BRANCH_NAME: "master"
