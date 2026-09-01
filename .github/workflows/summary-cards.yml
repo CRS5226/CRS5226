@@ -1,0 +1,28 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule: # execute every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Needs a Personal Access Token (classic) with "repo" + "read:user" scopes,
+          # saved as a repo secret named SUMMARY_GITHUB_TOKEN. The default GITHUB_TOKEN
+          # doesn't have enough access for these stats.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: crs5226
+          BRANCH_NAME: "master"
+          UTC_OFFSET: 5.5
+          EXCLUDE: ""
+          AUTO_PUSH: true
