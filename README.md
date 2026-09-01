@@ -42,12 +42,13 @@
 ### 📊 GitHub Stats
 
 <!--
-  This image is generated & committed by the "metrics.yml" Actions workflow
-  (self-hosted, so it won't hit the rate limits that broke the old cards).
-  It will appear blank until you push the workflow and let it run once.
+  These cards are generated & committed by the "summary-cards.yml" Actions workflow
+  into a "profile-summary-card-output" folder in this repo. They'll appear blank
+  until you add the SUMMARY_GITHUB_TOKEN secret and run the workflow once.
 -->
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Most used languages" width="49%" />
 </p>
 
 <p align="center">
